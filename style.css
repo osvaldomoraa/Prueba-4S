@@ -1,3 +1,11 @@
+/*
+Theme Name: More - Panama
+Version: 1.0
+Description: Theme desarrollado a medida como prueba tecnica para Grupo 4S
+Author: Osvaldo Mora   
+Author URI: https://github.com/osvaldomoraa
+*/
+
 /* 
 Defaults 
 */
@@ -8,7 +16,6 @@ Defaults
     --brand-light-blue: #ceebee;
     --brand-white: #f4f4f4;
     --paragraph-size-desktop: 1.6rem;
-    --paragraph-size-mobile: 1.6rem;
     --main-font-family-bold: "objectivebold", sans-serif;
     --main-font-family-reg: "objectiveregular", sans-serif;
     --secondary-font-family: "poppinsbold", serif;
@@ -23,31 +30,3 @@ html {
     font-size: var(--paragraph-size-desktop);
 }
 
-
-/* 
-Header
-*/
-
-/* 
-Footer
-*/
-
-/* 
-Responsive
-*/
-
-@media (max-width: 991px) {
-   
-}
-
-@media (max-width: 767px) {
-
-}
-
-@media (max-width: 575px) {
-
-}
-
-@media (max-width: 400px) {
-
-}
