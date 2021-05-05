@@ -7,10 +7,10 @@ Defaults
     --brand-black: #2c2a29;
     --brand-light-blue: #ceebee;
     --brand-white: #f4f4f4;
-    --paragraph-size-desktop: 1.7rem;
+    --paragraph-size-desktop: 1.6rem;
     --paragraph-size-mobile: 1.6rem;
-    --main-font-family-reg: "objectivebold", sans-serif;
-    --main-font-family-bold: "objectiveregular", sans-serif;
+    --main-font-family-bold: "objectivebold", sans-serif;
+    --main-font-family-reg: "objectiveregular", sans-serif;
     --secondary-font-family: "poppinsbold", serif;
 }
 
